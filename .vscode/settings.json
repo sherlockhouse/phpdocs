@@ -1,2 +1,7 @@
 {
+    "php.executablePath": "/Applications/MAMP/bin/php/php7.2.10/bin/php",
+    "php.validate.executablePath": "/Applications/MAMP/bin/php/php7.2.10/bin/php",
+    "php.suggest.basic": false,
+    "explorer.confirmDelete": false,
+    "php.validate.run": "onType",
 }
